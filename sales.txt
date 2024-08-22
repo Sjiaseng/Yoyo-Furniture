@@ -1,0 +1,50 @@
+Sales ID: 1
+Product Name: Beech wood bar stool
+Type: Modern Home
+Price: RM5000
+Phone Number: +6018-8966718
+Customer Name: David Stephen
+Amount: 2
+Delivery: 2.0
+Address: No,820, Kelantan
+Sales Date: 2024-01-01
+Status: Pending
+Approval: Unapproved
+Reason : Out of Stock
+Total Price: RM10000.0
+Salesperson: Tan Lee
+
+Sales ID: 2
+Product Name: Beech wood bar stool
+Type: Modern Home
+Price: RM2500
+Phone Number: +6017-8961898
+Customer Name: John Paul
+Amount: 2
+Delivery: 2.0
+Address: No,820, Pahang
+Sales Date: 2024-01-01
+Status: In-Progress
+Approval: Unapproved
+Reason : -
+Total Price: RM5000.0
+Salesperson: Lee Teoh
+
+Sales ID: 3
+Product Name: Beech wood bar stool
+Type: Modern Home
+Price: RM7500
+Phone Number: +6012-8294630
+Customer Name: Eric Leong
+Amount: 2
+Delivery: 2.0
+Address: No,820, KL
+Sales Date: 2024-01-15
+Status: Work Done
+Approval: Approved
+Reason : -
+Total Price: RM15000.0
+Salesperson: Soh Js
+
+
+

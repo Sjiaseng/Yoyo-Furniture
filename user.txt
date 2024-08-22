@@ -1,0 +1,110 @@
+Name: Lee Teoh Heng
+Email: lee@hotmail.com
+Gender: Male
+Phone: 0123456788
+IC: 098887906554
+Register Date: 2024-01-03
+Role: Sales Person
+Username: Teoh123
+Password: Leeabc
+
+Name: Yeoh Tan
+Email: yeoh@gmail.com
+Gender: Male
+Phone: 03924310556
+IC: 034449234322
+Register Date: 2024-01-04
+Role: Administrator
+Username: yeoh123
+Password: Yeoh321
+
+Name: Teoh An
+Email: teoh@gmail.com
+Gender: Female
+Phone: 0124536779
+IC: 021234567890
+Register Date: 2024-01-04
+Role: Administrator
+Username: teoh123
+Password: Teohabc
+
+Name: Marshal Tee
+Email: marshal@hotmail.com
+Gender: Male
+Phone: 01134236778
+IC: 021115145678
+Register Date: 2024-01-04
+Role: Officer
+Username: marshal
+Password: Mas@1234
+
+Name: Lee Li Hong
+Email: lee@gmail.com
+Gender: Female
+Phone: 0123231244
+IC: 032123456787
+Register Date: 2024-01-04
+Role: Officer
+Username: Lee123
+Password: Lee@123
+
+Name: Jet Teh
+Email: jet@gmail.com
+Gender: Male
+Phone: 0123457654
+IC: 034565432344
+Register Date: 2024-01-04
+Role: Officer
+Username: jetli
+Password: Jet123
+
+Name: Norhaili
+Email: nor@gmail.com
+Gender: Female
+Phone: 0142386944
+IC: 034576543122
+Register Date: 2024-01-04
+Role: Sales Person
+Username: nor123
+Password: Nor123
+
+Name: Aina Lim
+Email: aina@gmail.com
+Gender: Female
+Phone: 0123546776
+IC: 041013140987
+Register Date: 2024-01-04
+Role: Sales Person
+Username: aina123
+Password: Aina123
+
+Name: Johnson Tei
+Email: Teitei@gmail.com
+Gender: Male
+Phone: 0123546778
+IC: 031113234566
+Register Date: 2024-02-18
+Role: Officer
+Username: tei123
+Password: Tei123
+
+Name: Lee jian
+Email: Lee@gmail.com
+Gender: Male
+Phone: 0123546775
+IC: 031119231234
+Register Date: 2024-02-28
+Role: Administrator
+Username: Jian1234
+Password: Jian123
+
+Name: Ming Ming
+Email: Ming@gmail.com
+Gender: Male
+Phone: 0123546775
+IC: 031114106775
+Register Date: 2024-02-28
+Role: Officer
+Username: Ming123
+Password: mingAbc
+

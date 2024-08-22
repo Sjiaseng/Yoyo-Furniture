@@ -1,0 +1,21 @@
+Sales ID: 1
+Customer Name: David Stephen
+Status: Work Done
+Work Done Date: 2024-01-01
+Total Price: RM10000.0
+Payment: Pending
+
+Sales ID: 2
+Customer Name: John Paul
+Status: Work Done
+Work Done Date: 2024-01-01
+Total Price: RM5000.0
+Payment: Pending
+
+Sales ID: 3
+Customer Name: Eric Leong
+Status: Work Done
+Work Done Date: 2024-01-16
+Total Price: RM15000.0
+Payment: Pending
+
