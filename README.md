@@ -18,7 +18,7 @@ A Sales Order Management System (Names as Yoyo Furniture) Built with Java Progra
 6. Protection on Data Modification
 
 # UI:
-<img src="docs/1.png" width=500 height=200> <img src="docs/2.png" width=500 height=200> <img src="docs/3.png" width=500 height=350> <img src="docs/4.png" width=500 height=350> <img src="docs/5.png" width=500 height=350> <img src="docs/6.png" width=500 height=350> <img src="docs/7.png" width=500 height=350> <img src="docs/8.png" width=500 height=350> <img src="docs/9.png" width=500 height=350> <img src="docs/10.png" width=500 height=350>            
+<img src="docs/1.png" width=500 height=200> <img src="docs/2.png" width=500 height=200> <img src="docs/3.png" width=500 height=350> <img src="docs/4.png" width=500 height=350> <img src="docs/5.png" width=500 height=350> <img src="docs/6.png" width=500 height=350> <img src="docs/7.png" width=500 height=350> <img src="docs/8.png" width=500 height=350> <img src="docs/9.png" width=500 height=350> <img src="docs/10.png" width=650 height=450>            
 
 
 # Setup:
